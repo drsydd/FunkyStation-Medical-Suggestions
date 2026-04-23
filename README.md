@@ -4,7 +4,7 @@
 1) Some combination of this and prescriptions will define symptoms that can occur to patients if they don't take their meds regularly. For example betablockers that can be prescribed for 3 underlying common conditions. 
 2) Some of these have no impact ingame except for RP reasons.
 ---------------------------------------
-	Anemia : Bloodloss damage increased, or blood regen lowered?
+	Anemia :  blood regen lowered ? Or start taking bloodloss damage faster (lower treshold)? 
 	Arthritis :  pain
 	Asthma : Beta-blockers given to asthmatic patients will cause asphyxiation damage.
 	Autoimmune disorder : RP, no gameplay value
