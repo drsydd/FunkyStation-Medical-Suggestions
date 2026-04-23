@@ -19,7 +19,7 @@
 	
 1) A limit should be set for gameplay reasons.
 
-2) Patients should take their meds regularly if prescribed. Otherwise, their condition may worsen:
+2) Patients should take their meds regularly if prescribed. Otherwise, their condition may worsen:``
 ---------------------------------------
 	Antiacids : Start burping if not taken, burning pain emote on the chest especially after eating. Solved by taking pills.
 	Anxiolytics : Start stuttering or shaking, might occasionnaly get a panic attack and stay frozen for a few sec. Solved by taking pills.
