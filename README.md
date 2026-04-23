@@ -1,6 +1,6 @@
 # SS14-Medical-Suggestions
 
-## Prescriptions already in the game :
+## Prescriptions already in the game (customization screen):
 ---------------------------------------
 	Antiacids
 	Anti-anxiety Medication : rename to Anxiolytics
