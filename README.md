@@ -1,6 +1,7 @@
 # SS14-Medical-Suggestions
 
-## Add a personnal medical history (most is already in the game, customization screen) :
+## Add a personnal medical history (most is already in the game, customization screen) 
+## Some combination of this and prescriptions will define symptoms that can occur to patients if they don't take their meds regularly.
 ---------------------------------------
 	Anemia
 	Arthritis
