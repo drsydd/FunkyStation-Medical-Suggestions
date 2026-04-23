@@ -1,4 +1,4 @@
-# SS14-Medical-Suggestions
+# FunkyStation-Medical-Suggestions
 1) The goal of this is to expand on the medical gameplay for both doctors and everybody, without changing the current systems too much.
 
 2) The degree of complexity of a disease or diagnose will need to be discussed as I'm not sure myself sometimes how complex something should be in SS14.
