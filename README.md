@@ -82,15 +82,17 @@ These conditions are another layer that adds on top, before the ingame damage se
 ---------------------------------------
 	Arrhythmia (Real life :use a EKG to see the chaotic rhythm. Ingame : Stethoscope already ingame, use to hear irregular and fast heartbeats?): Amiodarone (IV drug)
 	Seizure (See a player shaking on the floor) : Midazolam (IV drug)
-	Food allergy and airway oedema (character gasps, context of food) : Epinephrin pen
-	Acute heart failure (health check will show oedema, and shortness of breath) : Furosemide (IV drug), a diuretic = drug that makes you pee and lowers the load on the heart.
+	Food allergy and airway oedema (character gasps, large skin rash on health check, context of food) : Epinephrin pen
+	Acute heart failure (health check will show oedema, and shortness of breath, stethoscope would show crackles) : Furosemide (IV drug), a diuretic = drug that makes you pee and lowers the load on the heart.
 	Stroke (Every doctor needs to recognize the 3 signs such as limb weakness, hemianopia or aphasia see above), add reflex hammer to the game that can be used on limbs to show very reactive limbs from the stroke, in case of doubt. Use IV thrombolytics to cure. 
 
 1) This introduces 4 new IV drugs : Midazolam, Furosemide, Thrombolytics, Amiodarone.
 
-2) This adds a use for the stethoscope.
+2) This adds more uses for the stethoscope.
 
-3) Introduces a hammer reflex that can be used for RP, and to be really sure of a stroke if a patient shows up with just one limb weakness. Hold in one hand and aim on different limbs to use. Will return an emote *the arm shakes normally* or *the arm shakes a lot and multiple times* 
+3) Introduces a hammer reflex that can be used for RP, and to be really sure of a stroke if a patient shows up with just one limb weakness. Hold in one hand and aim on different limbs to use. Will return an emote *the arm shakes normally* or *the arm shakes a lot and multiple times*
+
+4) Keep it simple, condition appears, proper drug is used once, and it goes away. 
 
 ## Allergies : 
 -------------
