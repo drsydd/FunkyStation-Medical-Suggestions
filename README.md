@@ -30,7 +30,7 @@
 	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot, pain. 
 	Antipsychotics : Might start seeing monsters instead of characters, hear weird noises or voices.
 	Beta-blockers : Acute Heart failure = oedema, shortness of breath, can't run. 
-	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is gone either left or right side of the game screen (hemianopia ). 
+	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is gone either left or right side of the game screen (hemianopia) See below for picture. 
 	Hormones : 
 	Immunosuppressives : organ failure 
 	Painkillers : pain
@@ -61,3 +61,8 @@ Perform a check with player's allergies when eating the food.
 If allergic : pain, diarrhea (shit puddle on the ground? janitor with hazmat gameplay! can be avoided by going to toilets?). Or more severe stuff like airway oedema requiring epinephrin fast, or get asphyxiation damage.
 
 Patients should know their allergies from the customization screen. RP gameplay could be made by going to see the doctor for an allergy certificate for various purposes. 
+
+
+Pictures and explanations
+--------------------------
+![Example of hemianopia during a stroke.](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/homonymous-hemianopsia-2)
