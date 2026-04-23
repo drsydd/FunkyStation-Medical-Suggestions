@@ -71,7 +71,7 @@
 * If patient has chronic heart failure history, not taking them will lead to acute heart failure. Use IV drug (Furosemide) to cure. 
 * If patient has essential tremor history (New), not taking them leads to hands shaking and dropping items on the floor regularly. Solved by taking pills.
 
-6) Some players should spawn without their meds (Patient often cannot get an appointment fast enough to renew them, or forget them when travelling). This would lead to more early round gameplay for doctors, with a few patients coming in to renew their prescriptions (RP).
+6) Some players should spawn without their meds (Patients often cannot get an appointment fast enough to renew them, or forget them when travelling). This would lead to more early round gameplay for doctors, with a few patients coming in to renew their prescriptions (RP).
 
 7) All of the above extends the medical gameplay on what has already been put in the customization screen, but is unique compared to the basic 4 or 5 type of damages already in the game and their current treatment.  I want to keep it simple, condition appears, might add damage to existing types, or change some bleeding treshold or on screen effects, proper drug is used once, and it goes away. 
 These conditions are another layer of flavor/RP. If left untreated, some can even crit patients depending on their severity (a very severe condition would be a stroke happening if you don't take blood thinners and have a history of blood clots or stroke).
