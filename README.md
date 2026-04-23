@@ -26,7 +26,7 @@
 	Sleep Apnea : Gives higher blood pressure.
 	Stroke : Requires blood thinners or might happen again. 
 	
-## Prescriptions, some are already in the game (customization screen):
+## Prescriptions, most are already in the game (customization screen):
 ---------------------------------------
 	Antiacids
 	Anti-anxiety Medication : rename to Anxiolytics
