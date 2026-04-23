@@ -1,18 +1,23 @@
 # SS14-Medical-Suggestions
+1) The goal of this is to expand on the medical gameplay for both doctors and everybody, without changing the current systems too much.
 
+2) The degree of complexity of a disease or diagnose will need to be discussed as I'm not sure myself sometimes how complex something should be in SS14.
+   
+3) To  make that choice easier, examples will be provided when possible based on the real life information, with then ideas to simplify it to the maximum, so the right balanced can then be picked by the team.
+   
 ## Add a personnal medical history (most is already in the game as "Family Medical History", customization screen). 
-1) Some combination of this and prescriptions will define symptoms that can occur to patients if they don't take their meds regularly. For example betablockers that can be prescribed for 3 underlying common conditions. 
-2) Some of these have no impact ingame except for RP reasons.
+1) Some combination of this and prescriptions will define symptoms that can occur to patients if they don't take their meds regularly. For example betablockers that can be prescribed for 3 underlying and different conditions. 
+2) Some of these have no impact ingame and can be picked for RP reasons.
 ---------------------------------------
 	Anemia :  blood regen lowered ? Or start taking bloodloss damage faster (lower treshold)? 
-	Arthritis :  pain
-	Asthma : Beta-blockers given to asthmatic patients will cause asphyxiation damage.
+	Arthritis :  Pain (usually in knees, hands and hips)
+	Asthma : Beta-blockers given to asthmatic patients will cause asphyxiation damage
 	Autoimmune disorder : RP, no gameplay value
-	Blood clots : Requires blood thinners.
-	Cancer : RP, no gameplay value.
-	Chronic pain : pain.
-	Depression : Requires antidepressants.
-	Diabetes : No gameplay value to begin with. Would require more work: add sweetness level to meals, and blood sugar level to HealthAnalyzer. If meds are not taken after eating something sweet, blood sugar rises and puts the player into a coma after a treshold. Requires IV insulin in medbay to treat. 
+	Blood clots : Requires blood thinners
+	Cancer : RP, no gameplay value
+	Chronic pain : Pain but could be renamed to back pain for something more common and more precise ingame  : *My back hurts!*
+	Depression : Requires antidepressants
+	Diabetes : No gameplay value to begin with. Would require more work: add sweetness level to meals, and blood sugar level to HealthAnalyzer. IRL people usually have pills multiple times a day, or insulin before eating, so the sugar level doesn't go too high afterwards. Ingame simplification : If meds are not taken after eating something sweet, blood sugar value rises and puts the player into a coma after a treshold (or just 0 1, has to take meds right after for more simplification). Coma requires IV insulin in medbay to treat. 
 	Heart disease : rename to chronic heart failure
 	High blood pressure : Add something to measure it ingame? Or just show on HealthAnalyzer? 120/75 mmHg is a normal value
 	HIV : RP, no gameplay value, syringes could eventually contaminate people...
@@ -87,6 +92,7 @@ These conditions are another layer of flavor/RP. If left untreated, some can eve
 	Food allergy and airway oedema (character gasps, large skin rash on health check, context of food) : Epinephrin pen
 	Acute heart failure (health check will show oedema, and shortness of breath, stethoscope would show crackles) : Furosemide (IV drug), a diuretic = drug that makes you pee and lowers the load on the heart.
 	Stroke (Every doctor needs to recognize the 3 signs such as limb weakness, hemianopia or aphasia see above), add reflex hammer to the game that can be used on limbs to show very reactive limbs from the stroke, in case of doubt. Use IV thrombolytics to cure. 
+	Coma due to high blood sugar : IRL bloodtest will show very high sugar level and acidic blood (diabetic coma). Simplified by using HealthAnalyzer that shows the sugar level. Treated with IV insulin.
 
 1) This introduces 4 new IV drugs : Midazolam, Furosemide, Thrombolytics, Amiodarone.
 
