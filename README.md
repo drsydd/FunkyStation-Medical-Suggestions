@@ -30,7 +30,7 @@
 	Antihistamines : Allergies might appear : skin rash on health Analyzer, *itches* a lot, *sneezes* a lot, pain. 
 	Antipsychotics : Might start seeing monsters instead of characters, hear weird noises or voices.
 	Beta-blockers : Acute Heart failure = oedema, shortness of breath, can't run. 
-	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is amputated either left or right side of the game screen (hemianopsia). 
+	Blood thinners : Stroke = Symptoms can be one or multiple between not able to use a hand, standing on feet (1 limb paralysis), everything heard or spoken appears as gibberish (aphasia), one side of the vision is gone either left or right side of the game screen (hemianopia ). 
 	Hormones : 
 	Immunosuppressives : organ failure 
 	Painkillers : pain
