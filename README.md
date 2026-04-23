@@ -50,7 +50,7 @@ These conditions are another layer that adds on top, before the ingame damage se
 
 7) Having these various conditions and prescriptions would lead to interesting RP with CMO doing rounds for interns?
 
-   ## New conditions, how to diagnose, how to cure
+   ## Conditions that have new treatment, how to diagnose, how to cure
 ---------------------------------------
 	Arrhythmia (Real life :use a EKG to see the chaotic rhythm. Ingame : Stethoscope already ingame, use to hear irregular and fast heartbeats?): Amiodarone (IV drug)
 	Seizure (See a player shaking on the floor) : Midazolam (IV drug)
